@@ -1,0 +1,9 @@
+langchain-openai
+langchain_community 
+langchain 
+pymysql 
+chromadb
+streamlit
+google-generativeai 
+python-dotenv
+langchain_groq
